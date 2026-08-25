@@ -81,7 +81,7 @@ I am a Software Engineering student at PUC Minas, with a strong interest in tech
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/gpresot/gpresot/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
