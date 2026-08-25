@@ -77,7 +77,7 @@ I am a Software Engineering student at PUC Minas, with a strong interest in tech
 <br>
 
 <!-- SNAKE ANIMATION -->
-## `[ 08 ]` CONTRIBUTION_GRID
+## 👾 CONTRIBUTION GRID
 
 <div align="center">
 
@@ -85,7 +85,7 @@ I am a Software Engineering student at PUC Minas, with a strong interest in tech
 
 </div>
 
-> 💡 Essa animação precisa de um workflow do GitHub Actions configurado no seu perfil para gerar o arquivo automaticamente. Veja o passo a passo abaixo do README.
+
 
 <br>
 
