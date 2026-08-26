@@ -100,7 +100,7 @@ I am a Software Engineering student at PUC Minas, with a strong interest in tech
 <a href="mailto:gui.presot@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://instagram.com/SEU-INSTAGRAM/">
+<a href="https://instagram.com/guilherme_presot/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
@@ -115,6 +115,6 @@ I am a Software Engineering student at PUC Minas, with a strong interest in tech
 
 `// end of transmission_`
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU-USUARIO&color=00ff9d&style=flat-square&label=SYSTEM+VISITS)
+![Profile Views](https://komarev.com/ghpvc/?username=gpresot&color=00ff9d&style=flat-square&label=SYSTEM+VISITS)
 
 </div>
