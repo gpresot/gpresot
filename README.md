@@ -62,7 +62,7 @@ I am a Software Engineering student at PUC Minas, with a strong interest in tech
 
 <!-- GITHUB STATS -->
 ## 📊 STATUS DO SISTEMA
-
+<br>
 <div align="center">
 
 ![](https://github-readme-stats.shion.dev/api?username=gpresot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
