@@ -22,13 +22,17 @@ I am a Software Engineering student at PUC Minas, with a strong interest in tech
 ## 💻 TECH STACK
 
 <div align="center">
+  
+<br>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://skillicons.dev/icons?i=,python,c,java,html,css,bootstrap&theme=dark" />
+
+
+
+
+
+
+</div>
 
  
 
@@ -40,15 +44,9 @@ I am a Software Engineering student at PUC Minas, with a strong interest in tech
 ## 🔨 FERRAMENTAS
 
 <div align="center">
-
-![Dev-C++](https://img.shields.io/badge/Dev--C++-00599C?style=for-the-badge&logo=c&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1F1F1F?style=for-the-badge&logo=apachenetbeanside&logoColor=00ff9d)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00ff9d)
-
-
-
+<br>
+<br>
+ <img src="https://skillicons.dev/icons?i=,github,git,vscode,idea,clion,figma&theme=dark" />
 
 </div>
 
@@ -72,7 +70,7 @@ I am a Software Engineering student at PUC Minas, with a strong interest in tech
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=gpresot&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=gpresot&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -95,18 +93,13 @@ I am a Software Engineering student at PUC Minas, with a strong interest in tech
 
 <!-- REDES SOCIAIS -->
 ## 📱 CANAIS DE CONTATO
-
+<br>
 <div align="center">
-
-<a href="https://www.linkedin.com/in/guilherme-miranda-presot-466464261/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:gui.presot@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://instagram.com/guilherme_presot/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=00ff9d)](https://www.linkedin.com/in/guilherme-miranda-presot-466464261/)
+[![Instagram](https://img.shields.io/badge/Instagram-0f0c29?style=for-the-badge&logo=instagram&logoColor=00ff9d)](https://instagram.com/guilherme_presot)
+[![Discord](https://img.shields.io/badge/Discord-0f0c29?style=for-the-badge&logo=discord&logoColor=00ff9d)](https://discord.com/users/presot_)
+[![Gmail](https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=00ff9d)](mailto:gui.presot@gmail.com)
 
 </div>
 
