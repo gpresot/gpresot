@@ -42,19 +42,16 @@ I am a Software Engineering student at PUC Minas, with a strong interest in tech
 
 <!-- FERRAMENTAS -->
 ## 🔨 FERRAMENTAS
-
-<div align="center">
 <br>
+<p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github,git,vscode" height="48" style="margin-right: 10px;" />
+  <img src="https://wsrv.nl/?url=www.dev-cpp.com/images/embarcaderodevcpp256.png&w=128&h=128&fit=contain&bg=1e1e1e" height="48" />
+  <img src="https://wsrv.nl/?url=logotyp.us/file/netbeans.svg&trim=true&w=128&h=128&fit=contain&bg=1e1e1e" height="48" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=figma" height="48" style="margin-right: 10px;" />
+</p>
+
 <br>
- <img src="https://skillicons.dev/icons?i=,github,git,vscode,idea,clion,figma&theme=dark" />
-
-</div>
-
-<br>
-
-<!-- PROJETOS EM CARDS -->
-
-<!-- Adicione mais projetos copiando o bloco acima e trocando o "repo=" -->
 
 </div>
 
@@ -65,8 +62,8 @@ I am a Software Engineering student at PUC Minas, with a strong interest in tech
 <br>
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=gpresot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=gpresot&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=gpresot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> <br>
+![](https://streak-stats.demolab.com/?user=gpresot&theme=dark&hide_border=false)<br/> <br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=gpresot&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
