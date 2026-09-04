@@ -120,11 +120,8 @@ I am a Software Engineering student at PUC Minas, with a strong interest in tech
 
 <!-- RODAPÉ -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-
-
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=gpresot&color=00ff9d&style=flat-square&label=SYSTEM+VISITS)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:302b63,100:0f0c29&height=120&section=footer"/>
 </div>
