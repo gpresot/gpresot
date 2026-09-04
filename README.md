@@ -60,11 +60,27 @@ I am a Software Engineering student at PUC Minas, with a strong interest in tech
 <!-- GITHUB STATS -->
 ## 📊 STATUS DO SISTEMA
 <br>
+
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=gpresot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> <br>
-![](https://streak-stats.demolab.com/?user=gpresot&theme=dark&hide_border=false)<br/> <br>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=gpresot&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<table>
+<tr>
+<td>
+
+[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=gpresot&custom_title=GitHub+Stats&hide_border=false&border_radius=8&border_color=302b63&bg_color=0f0c29&title_color=00ff9d&icon_color=00ff9d&text_color=fafafa&card_width=380&hide_title=false&hide_rank=false&rank_icon=percentile&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
+
+</td>
+<td>
+
+[![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=gpresot&layout=pie&stats_format=percentages&hide_border=false&border_radius=8&border_color=302b63&bg_color=0f0c29&title_color=00ff9d&text_color=fafafa&card_width=380&locale=pt-br&custom_title=Linguagens+mais+usadas)](https://nice-readme.vercel.app/top-langs)
+
+</td>
+</tr>
+</table>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gpresot&background=0f0c29&border=302b63&stroke=00ff9d&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d&currStreakNum=fafafa&sideLabels=00ff9d&sideNums=fafafa&dates=808080&border_radius=8&hide_border=false)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
