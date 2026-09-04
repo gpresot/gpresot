@@ -1,3 +1,6 @@
+
+---
+
 <div align="center">
 
 <!-- BANNER PRINCIPAL -->
@@ -10,16 +13,81 @@
 
 </div>
 
+---
+
 <br>
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+<tr>
+<!--<td><a href="https://replit.com/@aramuni"><img src="https://joaopauloaramuni.github.io/image/replit3.svg?raw=true" width="50px" height="50px"/></a>-->
+<td><a href="https://github.com/gpresot" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="mailto:gui.presot@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://wa.me/5531995406157" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.instagram.com/guilherme_presot/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.linkedin.com/in/guilherme-miranda-presot-466464261/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://joaopauloaramuni.github.io/image/slack.png?raw=true" width="50px" height="50px"/></a>
+</td>-->
+<td><a href="https://discordapp.com/users/presot_" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+</table>
+</div>
+
+---
+
+<div align="justify">
+
+Olá <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" />, sou o <mark>Presot</mark>, tenho 19 anos, moro em Belo Horizonte e sou programador desde os 16 anos de idade. Atualmente estou no 2° período de Engenharia de Software na [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx) 👨
+</div>
+
+---
 
 <!-- SOBRE MIM -->
-
-I am a Software Engineering student at PUC Minas, with a strong interest in technology and continuous learning. I'm building a solid foundation in programming logic, practicing Git and GitHub on a day-to-day basis in academic projects. I seek to develop my skills in both software development and cybersecurity — areas that spark my curiosity and motivate my professional growth.
-
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="25" height="25" /> Sobre mim
+Minhas habilidades incluem programação em <mark>C, Python e Java</mark>, além de conhecimento em HTML, CSS e Bootstrap. Venho construindo essa base através de projetos acadêmicos durante minha formação, praticando lógica de programação e versionamento com Git/GitHub no dia a dia. Uma das áreas que mais me interessam é a cibersegurança, junto ao desenvolvimento de software. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades — seja em projetos pessoais, acadêmicos ou colaborativos.
 <br>
 
+---
+
+## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/> Interesses pessoais
+<table>
+<tr>
+<td width="60%" valign="top">
+
+- 👨‍🎓   Sou estudante de Engenharia de Software.
+- 💼   Tenho interesse em vagas de Desenvolvedor, seja estágio ou Dev Jr.
+- ⚽   Sou atleticano, [galo](https://www.arenamrv.com.br/) doido!
+- 🥅   Gosto de jogar bola e outros esportes.
+- ✈️   Curto viajar e conhecer novos lugares.
+- 🎮   Gosto de jogar jogos online.
+- ☕   Não funciono sem café.
+- 💻   Minha linguagem de programação preferida é C
+- 🎯   Sempre disposto a aprender algo novo.
+- 📺   Minha série preferida é [Breaking Bad](https://www.netflix.com/br/title/70143836). 
+- 📫   Para me encontrar, esse é meu [e-mail](mailto:gui.presot@gmail.com) pessoal.
+</td>
+<td width="90%" ">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNxcmZmMWtlM3FqZ3hscXNzMGI5b25xcmNxdXBhbG9oejM1Zm8xMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
 <!-- TECH STACK -->
-## 💻 TECH STACK
+## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp;TECH STACK
 
 <div align="center">
   
@@ -29,19 +97,16 @@ I am a Software Engineering student at PUC Minas, with a strong interest in tech
 
 
 
-
-
+</div>
 
 </div>
 
- 
 
-</div>
 
 <br>
 
 <!-- FERRAMENTAS -->
-## 🔨 FERRAMENTAS
+##  <img src="https://emojifavicons.com/hammer-and-pick?animate=swing" alt="Hammer and Pick" width="32" height="32" style="vertical-align: middle;" /> FERRAMENTAS 
 <br>
 <p align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -55,12 +120,11 @@ I am a Software Engineering student at PUC Minas, with a strong interest in tech
 
 </div>
 
-<br>
+---
 
 <!-- GITHUB STATS -->
-## 📊 STATUS DO SISTEMA
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="36" height="36" style="vertical-align: middle;" /> STATUS DO SISTEMA
 <br>
-
 <div align="center">
 
 <table>
@@ -84,15 +148,12 @@ I am a Software Engineering student at PUC Minas, with a strong interest in tech
 
 ---
 
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
 
-<br>
-
 <!-- SNAKE ANIMATION -->
-## 👾 CONTRIBUTION GRID
+##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="32" height="32" style="vertical-align: middle;" /> CONTRIBUTION GRID
 
 <div align="center">
 
@@ -100,12 +161,10 @@ I am a Software Engineering student at PUC Minas, with a strong interest in tech
 
 </div>
 
-
-
-<br>
+---
 
 <!-- REDES SOCIAIS -->
-## 📱 CANAIS DE CONTATO
+##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="32" height="32" style="vertical-align: middle;" /> CANAIS DE CONTATO 
 <br>
 <div align="center">
   
@@ -116,12 +175,35 @@ I am a Software Engineering student at PUC Minas, with a strong interest in tech
 
 </div>
 
-<br>
+---
 
 <!-- RODAPÉ -->
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=gpresot&color=00ff9d&style=flat-square&label=SYSTEM+VISITS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:302b63,100:0f0c29&height=120&section=footer"/>
+<pre>
+██████╗ ██████╗ ███████╗███████╗ ██████╗ ████████╗
+██╔══██╗██╔══██╗██╔════╝██╔════╝██╔═══██╗╚══██╔══╝
+██████╔╝██████╔╝█████╗  ███████╗██║   ██║   ██║   
+██╔═══╝ ██╔══██╗██╔══╝  ╚════██║██║   ██║   ██║   
+██║     ██║  ██║███████╗███████║╚██████╔╝   ██║   
+╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝    ╚═╝   
+  
+</pre>
+
+</div>
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9D&width=435&lines=%2F%2FFoi+um+prazer+ter+voc%C3%AA+por+aqui!;%2F%2FVolte+sempre!)](https://git.io/typing-svg)
+<div align="center">
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/gpresot/gpresot/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/gpresot/gpresot/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/gpresot/gpresot/output/pacman-contribution-graph.svg">
+</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:302b63,100:00ff9d&height=120&section=footer"/>
 </div>
