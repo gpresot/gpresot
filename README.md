@@ -78,7 +78,7 @@ I am a Software Engineering student at PUC Minas, with a strong interest in tech
 </tr>
 </table>
 
-[![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=gpresot&layout=pie&stats_format=percentages&hide_border=false&border_radius=8&border_color=302b63&bg_color=000000&title_color=00ff9d&text_color=fafafa&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas)](https://nice-readme.vercel.app/top-langs)
+[![Most used languages](https://helio-github-stats.vercel.app/api/top-langs?username=gpresot&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Most+used+languages&title_color=00ff9d&bg_color=000000)](https://nice-readme.vercel.app/top-langs)
 
 </div>
 
