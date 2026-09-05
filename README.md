@@ -87,38 +87,44 @@ Minhas habilidades incluem programação em <mark>C, Python e Java</mark>, além
 ---
 
 <!-- TECH STACK -->
-## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp;TECH STACK
+## <img height="20" alt="Skills" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp; TECH STACK
 
 <div align="center">
-  
+
 <br>
 
-<img src="https://skillicons.dev/icons?i=,python,c,java,html,css,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,java,html,css,bootstrap&theme=dark" />
 
+<br><br>
 
+**Python • C • Java • HTML • CSS • Bootstrap**
 
 </div>
-
-</div>
-
-
 
 <br>
 
 <!-- FERRAMENTAS -->
-##  <img src="https://emojifavicons.com/hammer-and-pick?animate=swing" alt="Hammer and Pick" width="32" height="32" style="vertical-align: middle;" /> FERRAMENTAS 
-<br>
-<p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github,git,vscode" height="48" style="margin-right: 10px;" />
-  <img src="https://wsrv.nl/?url=www.dev-cpp.com/images/embarcaderodevcpp256.png&w=128&h=128&fit=contain&bg=1e1e1e" height="48" />
-  <img src="https://wsrv.nl/?url=logotyp.us/file/netbeans.svg&trim=true&w=128&h=128&fit=contain&bg=1e1e1e" height="48" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=figma" height="48" style="margin-right: 10px;" />
-</p>
+## <img src="https://emojifavicons.com/hammer-and-pick?animate=swing" alt="Hammer and Pick" width="32" height="32" style="vertical-align: middle;" /> FERRAMENTAS
 
 <br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=github,git,vscode" height="48" />
+&nbsp;&nbsp;
+<img src="https://wsrv.nl/?url=www.dev-cpp.com/images/embarcaderodevcpp256.png&w=128&h=128&fit=contain&bg=1e1e1e" height="48" />
+&nbsp;&nbsp;
+<img src="https://wsrv.nl/?url=logotyp.us/file/netbeans.svg&trim=true&w=128&h=128&fit=contain&bg=1e1e1e" height="48" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=figma" height="48" />
+
+<br><br>
+
+**GitHub • Git • VS Code • Dev-C++ • NetBeans • Figma**
 
 </div>
+
+<br>
 
 ---
 
