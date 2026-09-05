@@ -163,7 +163,14 @@ Minhas habilidades incluem programação em <mark>C, Python e Java</mark>, além
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gpresot/gpresot/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/gpresot/gpresot/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/gpresot/gpresot/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/gpresot/gpresot/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>
 
@@ -202,14 +209,5 @@ Minhas habilidades incluem programação em <mark>C, Python e Java</mark>, além
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9D&width=435&lines=%2F%2FFoi+um+prazer+ter+voc%C3%AA+por+aqui!;%2F%2FVolte+sempre!)](https://git.io/typing-svg)
 </div>
 <div align="center">
-
-  <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/gpresot/gpresot/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/gpresot/gpresot/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/gpresot/gpresot/output/pacman-contribution-graph.svg">
-</picture>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:302b63,100:00ff9d&height=120&section=footer"/>
 </div>
