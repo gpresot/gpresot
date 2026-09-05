@@ -48,7 +48,7 @@
 
 <div align="justify">
 
-Olá <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" />, sou o <mark>Presot</mark>, tenho 19 anos, moro em Belo Horizonte e sou programador desde os 16 anos de idade. Atualmente estou no 2° período de Engenharia de Software na [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx) 👨
+Olá <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" />, sou o <mark>Presot</mark>, tenho 19 anos, moro em Belo Horizonte e sou programador desde os 16 anos de idade. Atualmente estou no 2° período de Engenharia de Software na [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx) 
 </div>
 
 ---
