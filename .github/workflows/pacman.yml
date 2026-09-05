@@ -1,11 +1,14 @@
-name: Generate Snake Contribution Graph
+name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    # Atualiza a cada 24 horas
+    - cron: "0 0 * * *"
 
+  # Permite executar manualmente
   workflow_dispatch:
 
+  # Executa quando houver push na main
   push:
     branches:
       - main
@@ -16,17 +19,15 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - name: Generate Pacman
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
+      - name: Push Pacman SVG to output branch
         uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
