@@ -72,7 +72,7 @@ Minhas habilidades incluem programação em <mark>C, Python e Java</mark>, além
 - ✈️   Curto viajar e conhecer novos lugares.
 - 🎮   Gosto de jogar jogos online.
 - ☕   Não funciono sem café.
-- 💻   Minha linguagem de programação preferida é C
+- 💻   Minha linguagem de programação preferida é [C](https://www.c-language.org/about)
 - 🎯   Sempre disposto a aprender algo novo.
 - 📺   Minha série preferida é [Breaking Bad](https://www.netflix.com/br/title/70143836). 
 - 📫   Para me encontrar, esse é meu [e-mail](mailto:gui.presot@gmail.com) pessoal.
