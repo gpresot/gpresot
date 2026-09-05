@@ -1,14 +1,11 @@
-name: Generate Pacman Contribution Graph
+name: Generate Snake Contribution Graph
 
 on:
   schedule:
-    # Roda automaticamente a cada 12 horas
     - cron: "0 */12 * * *"
 
-  # Permite rodar manualmente pelo GitHub Actions
   workflow_dispatch:
 
-  # Roda também quando houver push na main
   push:
     branches:
       - main
@@ -19,21 +16,18 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
-      # Gera a animação usando suas contribuições
-      - name: Generate Pacman
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Publica os SVGs na branch "output"
-      - name: Push SVG to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
