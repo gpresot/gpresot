@@ -190,11 +190,11 @@ Minhas habilidades incluem programação em <mark>C, Python e Java</mark>, além
   
 </pre>
 
-</div>
+
 
 ---
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9D&width=435&lines=%2F%2FFoi+um+prazer+ter+voc%C3%AA+por+aqui!;%2F%2FVolte+sempre!)](https://git.io/typing-svg)
+</div>
 <div align="center">
 
   <picture>
