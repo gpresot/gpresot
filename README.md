@@ -55,7 +55,7 @@ Olá <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Ani
 
 <!-- SOBRE MIM -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="25" height="25" /> Sobre mim
-Minhas habilidades incluem programação em <mark>C, Python e Java</mark>, além de conhecimento em HTML, CSS e Bootstrap. Venho construindo essa base através de projetos acadêmicos durante minha formação, praticando lógica de programação e versionamento com Git/GitHub no dia a dia. Uma das áreas que mais me interessam é a cibersegurança, junto ao desenvolvimento de software. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades — seja em projetos pessoais, acadêmicos ou colaborativos.
+Minhas habilidades incluem programação em <mark>C, Python e Java</mark>, além de conhecimento em HTML, CSS e JavaScript. Venho construindo essa base através de projetos acadêmicos durante minha formação, praticando lógica de programação e versionamento com Git/GitHub no dia a dia. Uma das áreas que mais me interessam é a cibersegurança, junto ao desenvolvimento de software. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades — seja em projetos pessoais, acadêmicos ou colaborativos.
 <br>
 
 ---
