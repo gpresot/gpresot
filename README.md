@@ -93,11 +93,11 @@ Minhas habilidades incluem programação em <mark>C, Python e Java</mark>, além
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,c,java,html,css,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css&theme=dark" />
 
 <br><br>
 
-**Python • C • Java • HTML • CSS • Bootstrap**
+**Python • C • Java • HTML • CSS**
 
 </div>
 
@@ -118,9 +118,29 @@ Minhas habilidades incluem programação em <mark>C, Python e Java</mark>, além
 &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=figma" height="48" />
 
+
 <br><br>
 
-**GitHub • Git • VS Code • Dev-C++ • NetBeans • Figma**
+**GitHub • Git • VS Code • Dev-C++ • NetBeans**
+
+</div>
+
+<br>
+
+<!-- FRAMEWORKS -->
+## <img src="https://emojifavicons.com/gear?animate=swing" alt="Gear" width="32" height="32" style="vertical-align: middle;" /> FRAMEWORKS & TECNOLOGIAS
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,bootstrap&theme=dark" height="48" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymeleaf/thymeleaf-original.svg" height="48" />
+
+<br><br>
+
+**Spring Boot • Bootstrap • Thymeleaf**
 
 </div>
 
