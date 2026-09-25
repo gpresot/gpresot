@@ -97,7 +97,7 @@ Minhas habilidades incluem programação em <mark>C, Python e Java</mark>, além
 
 <br><br>
 
-**Python • C • Java • HTML • CSS**
+**Python • C • C++ • Java • HTML • CSS**
 
 </div>
 
