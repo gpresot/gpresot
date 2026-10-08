@@ -93,11 +93,11 @@ Minhas habilidades incluem programação em <mark>C, Python e Java</mark>, além
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,java,html,css,js&theme=dark" />
 
 <br><br>
 
-**Python • C • C++ • Java • HTML • CSS**
+**Python • C • Java • HTML • CSS • JavaScript**
 
 </div>
 
@@ -142,7 +142,7 @@ Minhas habilidades incluem programação em <mark>C, Python e Java</mark>, além
 
 **Spring Boot • Bootstrap • Thymeleaf**
 
-</div>
+<div>
 
 <br>
 
