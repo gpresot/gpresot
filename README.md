@@ -129,20 +129,21 @@ Minhas habilidades incluem programação em <mark>C, Python e Java</mark>, além
 
 <!-- FRAMEWORKS -->
 ## <img src="https://emojifavicons.com/gear?animate=swing" alt="Gear" width="32" height="32" style="vertical-align: middle;" /> FRAMEWORKS & TECNOLOGIAS
-
-<br>
-
+ 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=spring,bootstrap&theme=dark" height="48" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymeleaf/thymeleaf-original.svg" height="48" />
-
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" height="48" alt="Spring" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="48" alt="Bootstrap" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react&theme=dark" height="48" alt="React" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymeleaf/thymeleaf-original.svg" height="48" alt="Thymeleaf" />
 <br><br>
-
-**Spring Boot • Bootstrap • Thymeleaf**
-
-<div>
+ 
+**ㅤㅤㅤㅤSpring Boot • Bootstrap • React *(em aprendizado)* • Thymeleaf**
+ 
+</div>
 
 <br>
 
