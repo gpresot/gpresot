@@ -90,13 +90,17 @@ Minhas habilidades incluem programação em <mark>C, Python e Java</mark>, além
 
 <div align="center">
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,c,java,html,css,js&theme=dark" />
-
-<br><br>
-
-**Python • C • Java • HTML • CSS • JavaScript**
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="48" alt="Python" title="Python" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=c&theme=dark" height="48" alt="C" title="C" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java&theme=dark" height="48" alt="Java" title="Java" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html&theme=dark" height="48" alt="HTML" title="HTML" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css&theme=dark" height="48" alt="CSS" title="CSS" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js&theme=dark" height="48" alt="JavaScript" title="JavaScript" />
 
 </div>
 
@@ -109,18 +113,17 @@ Minhas habilidades incluem programação em <mark>C, Python e Java</mark>, além
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=github,git,vscode" height="48" />
-&nbsp;&nbsp;
-<img src="https://wsrv.nl/?url=www.dev-cpp.com/images/embarcaderodevcpp256.png&w=128&h=128&fit=contain&bg=1e1e1e" height="48" />
-&nbsp;&nbsp;
-<img src="https://wsrv.nl/?url=logotyp.us/file/netbeans.svg&trim=true&w=128&h=128&fit=contain&bg=1e1e1e" height="48" />
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=figma" height="48" />
-
-
-<br><br>
-
-**GitHub • Git • VS Code • Dev-C++ • NetBeans • Figma**
+<img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="GitHub" title="GitHub" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git&theme=dark" height="48" alt="Git" title="Git" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="48" alt="VS Code" title="VS Code" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://wsrv.nl/?url=www.dev-cpp.com/images/embarcaderodevcpp256.png&w=128&h=128&fit=contain&bg=1e1e1e" height="48" alt="Dev-C++" title="Dev-C++" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://wsrv.nl/?url=logotyp.us/file/netbeans.svg&trim=true&w=128&h=128&fit=contain&bg=1e1e1e" height="48" alt="NetBeans" title="NetBeans" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" height="48" alt="Figma" title="Figma" />
 
 </div>
 
@@ -131,17 +134,14 @@ Minhas habilidades incluem programação em <mark>C, Python e Java</mark>, além
  
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=spring&theme=dark" height="48" alt="Spring" />
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" height="48" alt="Spring Boot" title="Spring Boot" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="48" alt="Bootstrap" />
+<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="48" alt="Bootstrap" title="Bootstrap" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=react&theme=dark" height="48" alt="React" />
+<img src="https://skillicons.dev/icons?i=react&theme=dark" height="48" alt="React" title="React (em aprendizado)" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymeleaf/thymeleaf-original.svg" height="48" alt="Thymeleaf" />
-<br><br>
- 
-**ㅤㅤㅤㅤSpring Boot • Bootstrap • React *(em aprendizado)* • Thymeleaf**
- 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymeleaf/thymeleaf-original.svg" height="48" alt="Thymeleaf" title="Thymeleaf" />
+
 </div>
 
 <br>
