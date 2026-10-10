@@ -120,7 +120,7 @@ Minhas habilidades incluem programação em <mark>C, Python e Java</mark>, além
 
 <br><br>
 
-**GitHub • Git • VS Code • Dev-C++ • NetBeans**
+**GitHub • Git • VS Code • Dev-C++ • NetBeans • Figma**
 
 </div>
 
