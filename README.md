@@ -1,4 +1,3 @@
-
 ---
 
 <div align="center">
@@ -124,6 +123,8 @@ Minhas habilidades incluem programação em <mark>C, Python e Java</mark>, além
 <img src="https://wsrv.nl/?url=logotyp.us/file/netbeans.svg&trim=true&w=128&h=128&fit=contain&bg=1e1e1e" height="48" alt="NetBeans" title="NetBeans" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="48" alt="Figma" title="Figma" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48" alt="Docker" title="Docker" />
 
 </div>
 
@@ -141,6 +142,21 @@ Minhas habilidades incluem programação em <mark>C, Python e Java</mark>, além
 <img src="https://skillicons.dev/icons?i=react&theme=dark" height="48" alt="React" title="React (em aprendizado)" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymeleaf/thymeleaf-original.svg" height="48" alt="Thymeleaf" title="Thymeleaf" />
+
+</div>
+
+<br>
+
+<!-- BANCO DE DADOS & DEPLOY -->
+## <img src="https://emojifavicons.com/floppy-disk?animate=swing" alt="Floppy Disk" width="32" height="32" style="vertical-align: middle;" /> BANCO DE DADOS & DEPLOY
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="48" alt="MongoDB" title="MongoDB" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="48" alt="Vercel" title="Vercel (deploy)" />
 
 </div>
 
